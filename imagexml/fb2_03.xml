@@ -1,0 +1,26 @@
+<annotation>
+	<folder>FilamentousBacteria_fb</folder>
+	<filename>fb2_03.jpg</filename>
+	<path>/home/disk6T/yiyun/mmdetection/data/mydata/FPG/FilamentousBacteria_fb/fb2_03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>553</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>24</ymin>
+			<xmax>576</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>
